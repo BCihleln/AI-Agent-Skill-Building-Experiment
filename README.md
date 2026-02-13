@@ -68,31 +68,11 @@
 ### ⚠️ 尚待補充資訊
 參見 [`TODO`](TODO.md)
 
-## 🧪 測試 SKILL
-
-### 運行測試案例
-
-```bash
-# 使用 skill-creator 運行所有測試
-請使用 skill-creator 對 sge-qa-verification 執行 eval mode
-
-# 或者單獨測試某個案例
-請測試 sge-qa-verification 的 "Basic Verification Flow Test" 案例
-```
-
-### 現有測試案例
-
-1. **Basic Verification Flow Test**: 測試基本的驗證流程識別
-2. **Backend Navigation Test**: 測試後台系統導航說明
-3. **Data Comparison Logic Test**: 測試資料比對邏輯
-4. **Sheet Update Format Test**: 測試驗證單更新格式
-5. **Error Reporting Template Test**: 測試錯誤報告生成
-
 ## 📚 相關資源
 
 ### 背景資訊
 - [Notion 背景頁面](https://www.notion.so/SGE-2cba4cbac5dd80be9729ccbab819af99)
-- [驗證教程 by Yuri](https://docs.google.com/spreadsheets/d/1IhDhYq01_YYfxgboKKHMjkJKJin_EsQN/edit?gid=1602671084)
+- [驗證教程](https://docs.google.com/spreadsheets/d/1IhDhYq01_YYfxgboKKHMjkJKJin_EsQN/edit?gid=1602671084)
 - [後台比對參照表](https://docs.google.com/spreadsheets/d/1Kcdd362YLFmY8gAMyXpgurQSMXtUnD2SySEaRNmrpog)
 
 ### 系統連結
